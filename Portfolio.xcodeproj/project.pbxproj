@@ -15,6 +15,7 @@
 		3A2722A926829A56009E1788 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A2722A726829A56009E1788 /* LaunchScreen.storyboard */; };
 		3A2722B426829A56009E1788 /* PortfolioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2722B326829A56009E1788 /* PortfolioTests.swift */; };
 		3A2722BF26829A56009E1788 /* PortfolioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2722BE26829A56009E1788 /* PortfolioUITests.swift */; };
+		3AC459352697C8F300F1A780 /* MyStocksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC459342697C8F300F1A780 /* MyStocksViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3A2722BA26829A56009E1788 /* PortfolioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortfolioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A2722BE26829A56009E1788 /* PortfolioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioUITests.swift; sourceTree = "<group>"; };
 		3A2722C026829A56009E1788 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AC459342697C8F300F1A780 /* MyStocksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStocksViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3A2722A526829A56009E1788 /* Assets.xcassets */,
 				3A2722A726829A56009E1788 /* LaunchScreen.storyboard */,
 				3A2722AA26829A56009E1788 /* Info.plist */,
+				3AC459342697C8F300F1A780 /* MyStocksViewController.swift */,
 			);
 			path = Portfolio;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				3A2722A126829A54009E1788 /* ViewController.swift in Sources */,
 				3A27229D26829A54009E1788 /* AppDelegate.swift in Sources */,
 				3A27229F26829A54009E1788 /* SceneDelegate.swift in Sources */,
+				3AC459352697C8F300F1A780 /* MyStocksViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
