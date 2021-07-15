@@ -16,6 +16,8 @@
 		3A2722B426829A56009E1788 /* PortfolioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2722B326829A56009E1788 /* PortfolioTests.swift */; };
 		3A2722BF26829A56009E1788 /* PortfolioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2722BE26829A56009E1788 /* PortfolioUITests.swift */; };
 		3AC459352697C8F300F1A780 /* MyStocksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC459342697C8F300F1A780 /* MyStocksViewController.swift */; };
+		3AF8D54326A08D3A00AF1A88 /* StockCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF8D54126A08D3A00AF1A88 /* StockCellTableViewCell.swift */; };
+		3AF8D54426A08D3A00AF1A88 /* StockCellTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AF8D54226A08D3A00AF1A88 /* StockCellTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		3A2722BE26829A56009E1788 /* PortfolioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioUITests.swift; sourceTree = "<group>"; };
 		3A2722C026829A56009E1788 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3AC459342697C8F300F1A780 /* MyStocksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStocksViewController.swift; sourceTree = "<group>"; };
+		3AF8D54126A08D3A00AF1A88 /* StockCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockCellTableViewCell.swift; sourceTree = "<group>"; };
+		3AF8D54226A08D3A00AF1A88 /* StockCellTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StockCellTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				3A2722A726829A56009E1788 /* LaunchScreen.storyboard */,
 				3A2722AA26829A56009E1788 /* Info.plist */,
 				3AC459342697C8F300F1A780 /* MyStocksViewController.swift */,
+				3AF8D54126A08D3A00AF1A88 /* StockCellTableViewCell.swift */,
+				3AF8D54226A08D3A00AF1A88 /* StockCellTableViewCell.xib */,
 			);
 			path = Portfolio;
 			sourceTree = "<group>";
@@ -236,6 +242,7 @@
 			files = (
 				3A2722A926829A56009E1788 /* LaunchScreen.storyboard in Resources */,
 				3A2722A626829A56009E1788 /* Assets.xcassets in Resources */,
+				3AF8D54426A08D3A00AF1A88 /* StockCellTableViewCell.xib in Resources */,
 				3A2722A426829A54009E1788 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -264,6 +271,7 @@
 				3A2722A126829A54009E1788 /* ViewController.swift in Sources */,
 				3A27229D26829A54009E1788 /* AppDelegate.swift in Sources */,
 				3A27229F26829A54009E1788 /* SceneDelegate.swift in Sources */,
+				3AF8D54326A08D3A00AF1A88 /* StockCellTableViewCell.swift in Sources */,
 				3AC459352697C8F300F1A780 /* MyStocksViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
